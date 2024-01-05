@@ -8,14 +8,7 @@ import {
 export default function Document() {
 	return (
 		<Html lang="en">
-			<Head>
-				<title>Islam Elbadawy Portfolio</title>
-				<link
-					rel="shortcut icon"
-					href="../public/favicon.ico"
-					type="image/x-icon"
-				/>
-			</Head>
+			<Head title="Islam Elbadawy" />
 			<body>
 				<Main />
 				<NextScript />

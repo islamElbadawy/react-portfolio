@@ -45,7 +45,8 @@ export default function Home() {
 						</li>
 						<li>
 							<a
-								href="#"
+								href="../public/islam.pdf"
+								download=""
 								className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
 							>
 								Resume
@@ -88,8 +89,8 @@ export default function Home() {
 					</h3>
 					<p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
 						Since the beginning of my journey as a
-						freelance designer and developer, I've
-						done remote work for
+						freelance designer and developer, I
+						have done remote work for
 						<span className="text-teal-500">
 							{' '}
 							agencies{' '}
@@ -154,7 +155,7 @@ export default function Home() {
 						</h3>
 						<p className="py-2">
 							Do you have an idea for your next
-							great website? Let's make it a
+							great website? Let&apos;s make it a
 							reality.
 						</p>
 						<h4 className="py-4 text-teal-600">
@@ -214,8 +215,8 @@ export default function Home() {
 					</h3>
 					<p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
 						Since the beginning of my journey as a
-						freelance designer and developer, I've
-						done remote work for
+						freelance designer and developer, I
+						have done remote work for
 						<span className="text-teal-500">
 							{' '}
 							agencies{' '}
